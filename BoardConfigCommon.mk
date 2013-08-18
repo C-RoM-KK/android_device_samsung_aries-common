@@ -154,5 +154,8 @@ BOARD_SEPOLICY_UNION += \
 # External apps on SD
 TARGET_EXTERNAL_APPS = sdcard1
 
+# Hardware tunables
+BOARD_HARDWARE_CLASS := device/samsung/aries-common/cmhw/
+
 # Include aries specific stuff
 -include device/samsung/aries-common/Android.mk
