@@ -160,6 +160,9 @@ BOARD_SEPOLICY_UNION += \
     tvouthack.te \
     tvoutserver.te \
 
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
+
 # Include aries specific stuff
 -include device/samsung/aries-common/Android.mk
 
