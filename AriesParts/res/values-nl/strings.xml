@@ -41,7 +41,6 @@
     <string name="deskdock_audio_title_head">Bureau-dock</string>
     <string name="deskdock_audio_summary_on">Bureau-dock-geluid ingeschakeld</string>
     <string name="deskdock_audio_summary_off">Bureau-dock-geluid uitgeschakeld</string>
-<<<<<<< HEAD
 
     <string name="category_vibration_title">Trillen</string>
     <string name="vibration_title_head">Trillen</string>
@@ -51,9 +50,8 @@
 
     <!-- Used for activity title. Usually not visible, except on the
          multi-task screen -->
-=======
+
     <string name="button_reset_title">Herstellen</string>
->>>>>>> 72dcfdd... aries-common: initial support for CMHW
     <string name="generic_warning_title">Let op</string>
 
     <!-- Invalid IMEI -->
