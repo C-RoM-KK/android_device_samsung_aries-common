@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Ustawienia Mackay</string>
+    <string name="app_name">Ustawienia Device</string>
 
-    <string name="mackay_settings_title">Mackay - ustawienia kernela</string>
+    <string name="mackay_settings_title">Device - ustawienia kernela</string>
     <string name="mackay_settings_summary">Za pomocą tej aplikacji możesz zmienić ustawienia kernela Mackay. Używasz na własne ryzyko.\n\nInstalując inny kernel, niektóre ustawienia mogą być niedostępne lub powodować wymuszenie zamknięcia aplikacji.</string>
 
     <string name="category_screen_title">Ekran</string>

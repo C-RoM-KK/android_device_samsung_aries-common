@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Mackay Settings</string>
+    <string name="app_name">Device Settings</string>
 
     <string name="mackay_settings_title">Mackay kernel settings</string>
     <string name="mackay_settings_summary">With this app, you can change the settings for the Mackay kernel. Use at your own risk\n\nIf you run another kernel, these settings may be nonfunctional or cause force closes.</string>
